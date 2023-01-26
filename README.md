@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hugo Dias</h1>
 <h3 align="center">A admirer of tiny components wich do big things.</h3>
 
-- 🔭 I’m currently working on [temp-sensor](https://github.com/hugodiasg/temp-sensor)
+- 🔭 I’m currently working on [temp-sensor](https://github.com/hugodiasg/temp-sensor) .
 
 - 🌱 I’m currently learning **Python and Cadence Virtuoso.**
 
-- 📄 Know about my experiences [Opensource softwares to project CIs (Ngspice, Xschem, Magic, Netgen and ASITIC)](Opensource softwares to project CIs (Ngspice, Xschem, Magic, Netgen and ASITIC))
+- 📄 Know about my experiences [Opensource softwares to project CIs (Ngspice, Xschem, Magic, Netgen and ASITIC)](Opensource softwares to project CIs (Ngspice, Xschem, Magic, Netgen and ASITIC)).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
