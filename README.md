@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Python and Cadence Virtuoso.**
 
-- 📄 Know about my experiences [Opensource softwares to project CIs (Ngspice, Xschem, Magic, Netgen and ASITIC)](Opensource softwares to project CIs (Ngspice, Xschem, Magic, Netgen and ASITIC)).
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hugo-dias-88ab30185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hugo-dias-88ab30185/" height="30" width="40" /></a>
