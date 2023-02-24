@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hugo Dias</h1>
-<h3 align="center">A admirer of tiny components wich do big things.</h3>
+<h3 align="center">An admirer of tiny components wich do big things.</h3>
 
 - 🔭 I’m currently working on [temp-sensor](https://github.com/hugodiasg/temp-sensor) .
 
