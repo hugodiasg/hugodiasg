@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hugo Dias</h1>
 <h3 align="center">An admirer of tiny components which do big things..</h3>
 
-- 👨‍💻 I’m currently working on [temp-sensor](https://github.com/hugodiasg/temp-sensor) and [vahid6i](https://github.com/hugodiasg/vahid6i-microprocessor).
+- 👨‍💻 I’m currently working on [temp-sensor](https://github.com/hugodiasg/temp-sensor) and [vahid6i-microprocessor](https://github.com/hugodiasg/vahid6i-microprocessor).
 
 - ✍️ I’m currently learning **Python, Cadence Virtuoso and Verilog.**
 
