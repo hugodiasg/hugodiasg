@@ -3,7 +3,7 @@
 
 - 👨‍💻 I’m currently working on [temp-sensor](https://github.com/hugodiasg/temp-sensor) and [vahid6i](https://github.com/hugodiasg/vahid6i-microprocessor).
 
-- ✍️ I’m currently learning **Python and Cadence Virtuoso.**
+- ✍️ I’m currently learning **Python, Cadence Virtuoso and Verilog.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
