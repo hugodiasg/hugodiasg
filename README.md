@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hugo Dias</h1>
 <h3 align="center">An admirer of tiny components which do big things!</h3>
 
-- 👨‍💻 I’m currently working on [temp-sensor](https://github.com/hugodiasg/temp-sensor) and [vahid6i-microprocessor](https://github.com/hugodiasg/vahid6i-microprocessor).
+- 👨‍💻 I’m currently working on [temp-sensor](https://github.com/hugodiasg/temp-sensor) and [tapeout-2023p2-umc180]([https://github.com/hugodiasg/vahid6i-microprocessor](https://github.com/hugodiasg/tapeout-2023p2-umc180)).
 
-- ✍️ I’m currently learning **Cadence IC**, **Verilog.** and **MS Project**.
+- ✍️ I’m currently learning **Cadence IC Analog and RF** and **Verilog.**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
