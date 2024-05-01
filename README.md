@@ -3,7 +3,7 @@
 
 - 👨‍💻 I’m currently working on [temp-sensor](https://github.com/hugodiasg/temp-sensor) and [tapeout-2023p2-umc180](https://github.com/hugodiasg/tapeout-2023p2-umc180).
 
-- ✍️ I’m currently learning **Cadence IC Analog and RF** and **Verilog.**.
+- ✍️ I’m currently learning **Cadence IC Analog and RF** and **Verilog**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
