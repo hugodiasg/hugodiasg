@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hugo Dias</h1>
 <h3 align="center">An admirer of tiny components which do big things!</h3>
 
-- 👨‍💻 I’m currently working on [temp-sensor](https://github.com/hugodiasg/temp-sensor)
-
-- ✍️ I’m currently learning **Cadence IC Analog and RF** and **Verilog**.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hugo-dias-88ab30185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hugo-dias-88ab30185/" height="30" width="40" /></a>
